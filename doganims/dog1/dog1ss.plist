@@ -749,7 +749,7 @@
 			<key>textureFileName</key>
 			<string>dog1ss</string>
 			<key>textureFileExtension</key>
-			<string>.png</string>
+			<string>.pvr</string>
 			<key>coordinatesFileName</key>
 			<string>dog1ss</string>
 			<key>coordinatesFileExtension</key>
